@@ -24,35 +24,35 @@
 
 <h2>🌟 Featured Projects</h2>
 
-### [AI Course Projects](https://github.com/your-username/AI-Course-Projects)
+### [AI Course Projects](https://github.com/ofekavidan/Introduction-to-Artificial-Intelligence)
 - **Topics**: AI Search Algorithms, Game Solving, Planning Graphs.
 - **Technologies**: Python, Heuristic Search, Multi-Agent Systems, Game Theory.
 
-### [Image Processing Projects](https://github.com/your-username/Image-Processing)
+### [Image Processing Projects](https://github.com/ofekavidan/Image-Processing)
 - **Topics**: Hybrid Images, Image Restoration using GANs.
 - **Technologies**: Python, OpenCV, Deep Learning.
 
-### [From Nand to Tetris](https://github.com/your-username/From-Nand-to-Tetris)
+### [From Nand to Tetris](https://github.com/ofekavidan/Nand2Tetris)
 - **Topics**: Boolean Logic, Assembly Language, Computer Architecture.
 - **Technologies**: Python, HDL, Machine Code, Compilers.
 - **More Info**: [Course Info](https://shnaton.huji.ac.il/index.php/NewSyl/67925/2/2022)
 
-### [Operating Systems](https://github.com/your-username/Operating-Systems)
+### [Operating Systems](https://github.com/ofekavidan/Operating-Systems)
 - **Topics**: Virtualization, Performance Measurement, Memory Management.
 - **Technologies**: C++, Virtual Machines, MapReduce, Sockets.
 - **More Info**: [Course Info](https://shnaton.huji.ac.il/index.php/NewSyl/67808/2/2021)
 
-### [Introduction to Object-Oriented Programming](https://github.com/your-username/OOP)
+### [Introduction to Object-Oriented Programming](https://github.com/ofekavidan/Intro-to-Object-oriented-programming)
 - **Topics**: OOP Principles, Design Patterns, Game Development.
 - **Technologies**: Java.
 - **More Info**: [Course Info](https://shnaton.huji.ac.il/index.php/NewSyl/67315/2/2022)
 
-### [Programming Workshop in C & C++](https://github.com/your-username/C-C-Workshop)
+### [Programming Workshop in C & C++](https://github.com/ofekavidan/Workshop-in-C-CPP)
 - **Topics**: Memory Management, Pointers, Data Structures.
 - **Technologies**: C, C++.
 - **More Info**: [Course Info](https://shnaton.huji.ac.il/index.php/NewSyl/67315/2/2022)
 
-### [Introduction to Computer Science](https://github.com/your-username/Intro-to-Computer-Science)
+### [Introduction to Computer Science](https://github.com/ofekavidan/Introduction-to-CS)
 - **Topics**: Python Programming, Recursion, Algorithms, Data Structures.
 - **Technologies**: Python.
 - **More Info**: [Course Info](https://shnaton.huji.ac.il/index.php/NewSyl/67315/2/2022)
@@ -83,7 +83,7 @@
 
 <h2>📚 Education</h2>
 
-- **B.Sc. in Computer Science** at **HUJI (Hebrew University of Jerusalem)**.
+- **Soon B.Sc. in Computer Science** at **HUJI (Hebrew University of Jerusalem)**.
 - **Specialization** in **Artificial Intelligence**, **Image Processing**, and **Systems Engineering**.
 
 ---
