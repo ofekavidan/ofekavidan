@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ofek Avidan</h1>
 
-<p align="center">
-  <img src="https://example.com/path/to/your-profile-image.png" alt="Ofek Avidan" width="150">
-</p>
-
 <h3 align="center">Welcome to my GitHub profile! I'm a Computer Science student at HUJI (Hebrew University of Jerusalem) specializing in Artificial Intelligence and Image Processing.</h3>
 
 <p align="center">
