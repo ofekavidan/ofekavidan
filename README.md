@@ -90,7 +90,7 @@
 
 <h2>💬 Let's Connect</h2>
 
-Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/ofek-avidan/) or check out my [personal website](https://ofek-avidan.com) to learn more about my work and projects.
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/ofekavidan/).
 
 ---
 
