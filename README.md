@@ -62,11 +62,11 @@
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Ofek Avidan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ofekavidan&show_icons=true&theme=radical" alt="Ofek Avidan's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="Ofek Avidan's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofekavidan&theme=radical" alt="Ofek Avidan's GitHub streak" />
 </p>
 
 ---
