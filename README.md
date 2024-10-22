@@ -27,10 +27,12 @@
 ### [AI Course Projects](https://github.com/ofekavidan/Introduction-to-Artificial-Intelligence)
 - **Topics**: AI Search Algorithms, Game Solving, Planning Graphs.
 - **Technologies**: Python, Heuristic Search, Multi-Agent Systems, Game Theory.
+- **More Info**: [Course Info](https://shnaton.huji.ac.il/index.php/NewSyl/67842/2/2019)
 
 ### [Image Processing Projects](https://github.com/ofekavidan/Image-Processing)
 - **Topics**: Hybrid Images, Image Restoration using GANs.
 - **Technologies**: Python, OpenCV, Deep Learning.
+- **More Info**: [Course Info](https://shnaton.huji.ac.il/index.php/NewSyl/67829/2/2022/)
 
 ### [From Nand to Tetris](https://github.com/ofekavidan/Nand2Tetris)
 - **Topics**: Boolean Logic, Assembly Language, Computer Architecture.
@@ -57,6 +59,14 @@
 - **Technologies**: Python.
 - **More Info**: [Course Info](https://shnaton.huji.ac.il/index.php/NewSyl/67315/2/2022)
 
+### [Introduction to Machine Learning](https://github.com/ofekavidan/Introduction-To-Machine-Learning)
+- **Topics**: Regression, Classification, Boosting, Gradient Descent.
+- **Technologies**: Python, Scikit-learn, NumPy.
+- **More Info**: [Course Info](https://shnaton.huji.ac.il/index.php/NewSyl/67577/2/2020/)
+
+
+
+
 ---
 
 <h2>📈 GitHub Stats</h2>
@@ -82,9 +92,14 @@
 ---
 
 <h2>📚 Education</h2>
+<h2>📚 Education</h2>
 
 - **Soon B.Sc. in Computer Science** at **HUJI (Hebrew University of Jerusalem)**.
-- **Specialization** in **Artificial Intelligence**, **Image Processing**, and **Systems Engineering**.
+  - Specialization in **Artificial Intelligence**, **Image Processing**, and **Systems Engineering**.
+- **Nachshon High School For Science, Technology And Art, Shoham**
+  - Proficient in object-oriented programming and C#.
+  - Developed a web-based movie theater management platform using HTML, CSS, JavaScript, ASP.NET, Access database, and SQL queries for comprehensive sales tracking, ticket inventory management, employee management, and screening times.
+
 
 ---
 
