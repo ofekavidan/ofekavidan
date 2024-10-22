@@ -65,20 +65,6 @@
 - **More Info**: [Course Info](https://shnaton.huji.ac.il/index.php/NewSyl/67577/2/2020/)
 
 
-
-
----
-
-<h2>📈 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ofekavidan&show_icons=true&theme=radical" alt="Ofek Avidan's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ofekavidan&theme=radical" alt="Ofek Avidan's GitHub streak" />
-</p>
-
 ---
 
 <h2>🚀 Skills & Technologies</h2>
