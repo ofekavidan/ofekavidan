@@ -24,12 +24,12 @@
 
 <h2>🌟 Featured Projects</h2>
 
-### [AI Course Projects](https://github.com/ofekavidan/Introduction-to-Artificial-Intelligence)
+### [Introduction to AI](https://github.com/ofekavidan/Introduction-to-Artificial-Intelligence)
 - **Topics**: AI Search Algorithms, Game Solving, Planning Graphs.
 - **Technologies**: Python, Heuristic Search, Multi-Agent Systems, Game Theory.
 - **More Info**: [Course Info](https://shnaton.huji.ac.il/index.php/NewSyl/67842/2/2019)
 
-### [Image Processing Projects](https://github.com/ofekavidan/Image-Processing)
+### [Image Processing](https://github.com/ofekavidan/Image-Processing)
 - **Topics**: Hybrid Images, Image Restoration using GANs.
 - **Technologies**: Python, OpenCV, Deep Learning.
 - **More Info**: [Course Info](https://shnaton.huji.ac.il/index.php/NewSyl/67829/2/2022/)
@@ -91,7 +91,6 @@
 
 ---
 
-<h2>📚 Education</h2>
 <h2>📚 Education</h2>
 
 - **Soon B.Sc. in Computer Science** at **HUJI (Hebrew University of Jerusalem)**.
